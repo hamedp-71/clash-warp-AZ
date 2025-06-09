@@ -102,7 +102,7 @@ proxies:
     reserved: "AAAA"
     udp: true
     mtu: 1280
-    dialer-proxy: "🇮🇷 hamedp71 - IPv4-1"
+    dialer-proxy: "🇮🇷 hamedp71 - IPv4-2"
 
   - name: "🇮🇷 hamedp71 - IPv4-2"
     type: wireguard
