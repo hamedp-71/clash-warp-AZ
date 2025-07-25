@@ -109,8 +109,8 @@ proxies:
     ip: 172.16.0.2/32
     ipv6: 2001:db8:1::1
     private-key: "sBlOEknlqiLiQ0cgThr8n9sZB6nCJ0oTgYMlTlLgekY="
-    server: 188.114.96.46
-    port: 1018
+    server: 8.34146.208
+    port: 1002
     public-key: "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
     allowed-ips: ["0.0.0.0/0", "::/0", "10.0.0.0/8", "!185.143.223.0/24", "!94.232.128.0/21"]
     reserved: "AAAA"
